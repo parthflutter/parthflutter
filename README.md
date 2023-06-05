@@ -1,7 +1,10 @@
+   <img align="center" width="900" src="https://topflightapps.com/wp-content/uploads/2021/06/Flutter-vs-React-Native-mobile-app-development-main-banner.jpg">
+
 <h1 align="center">Hi 👋, I'm Parth Savaliya</h1>
 <h3 align="center">A passionate Flutter APP Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthflutter&label=Profile%20views&color=0e75b6&style=flat" alt="parthflutter" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthflutter" alt="parthflutter" /></a> </p>
 
@@ -12,6 +15,8 @@
 - 💬 Ask me about **C,C++,Dart**
 
 - 📫 How to reach me **savaliyaparth@712gmail.com**
+
+    <img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
