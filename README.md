@@ -1,4 +1,5 @@
-   <img align="center" width="900" src="https://topflightapps.com/wp-content/uploads/2021/06/Flutter-vs-React-Native-mobile-app-development-main-banner.jpg">
+   <img align="center" width="900" src="https://github.com/parthflutter/parthflutter/assets/116251590/aec020b2-18eb-40a3-903b-868682230d83",
+
 
 <h1 align="center">Hi 👋, I'm Parth Savaliya</h1>
 <h3 align="center">A passionate Flutter APP Developer from India</h3>
