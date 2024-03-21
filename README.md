@@ -1,4 +1,5 @@
-   <img align="center" width="900" src="https://github.com/parthflutter/parthflutter/assets/116251590/aec020b2-18eb-40a3-903b-868682230d83",
+   <img align="center" width="900" src = https://github.com/parthflutter/parthflutter/assets/116251590/c61b2d10-802c-4c63-a274-97fd8cce6050
+
 
 
 <h1 align="center">Hi 👋, I'm Parth Savaliya</h1>
