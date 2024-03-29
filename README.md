@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthflutter](https://github.com/parthflutter)
 
-- 💬 Ask me about **C,C++,Dart,Flutter,Figma,**
+- 💬 Ask me about **C, C++, Dart, Flutter, Figma, **
 
 - 📫 How to reach me **savaliyaparth@712gmail.com**
 
